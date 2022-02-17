@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/waba/static/css/main.c081c7a8.css",
+    "main.js": "/waba/static/js/main.73b25ea1.js",
+    "static/media/img_thumb.jpg": "/waba/static/media/img_thumb.00ee0763508df1d43191.jpg",
+    "index.html": "/waba/index.html",
+    "main.c081c7a8.css.map": "/waba/static/css/main.c081c7a8.css.map",
+    "main.73b25ea1.js.map": "/waba/static/js/main.73b25ea1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c081c7a8.css",
+    "static/js/main.73b25ea1.js"
+  ]
+}

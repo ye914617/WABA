@@ -12,7 +12,7 @@
     "react-scripts": "5.0.0",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://ye914617.github.io/waba/",
+  "homepage": "https://ye914617.github.io/WABA/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
